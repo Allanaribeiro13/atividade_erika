@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <title></title>
+    <meta name="description" content="" />
+
+    <link rel="stylesheet" href="./index.css" />
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=PT Serif:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Source Sans Pro:wght@700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Asap:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="landing-page-salo">
+      <div class="rectangle-div"></div>
+      <b class="home-b">Home</b
+      ><b class="sobre-ns" id="sobreNsText">Sobre nós</b
+      ><b class="servios-b" id="serviosText">Serviços</b
+      ><b class="contato-b">Contato</b>
+      <div class="call-to-action">
+        <div class="rectangle-div1"></div>
+        <b class="agendar-b">Agendar</b>
+      </div>
+      <img class="image-3-icon" alt="" src="public/image-3@2x.png" /><img
+        class="image-4-icon"
+        alt=""
+        src="public/image-4@2x.png"
+      /><img class="social-media-icon" alt="" src="public/social-media.svg" />
+      <div class="call-to-action1">
+        <div class="rectangle-div2"></div>
+        <b class="agendar-servio-b">Agendar serviço</b>
+      </div>
+      <b class="o-melhor-lugar-para-voc-ficar"
+        ><span>O melhor lugar para você ficar ainda </span
+        ><span class="mais-incrvel-span">mais incrível</span></b
+      >
+      <div class="est-esperando-o-que-para-se-s">
+        Está esperando o que para se sentir bem e se sentir mais você? Aqui você
+        encontra o cuidado que seu cabelo precisa. Corte, hidratação, coloração
+        e peteados.
+      </div>
+      <div class="rectangle-div3"></div>
+      <img class="image-8-icon" alt="" src="public/image-8@2x.png" />
+    </div>
+
+    <script>
+      var sobreNsText = document.getElementById("sobreNsText");
+      if(sobreNsText) {
+        sobreNsText.addEventListener("click", function (e) {
+          window.location.href = "./LandingPageSalo.html"
+        });
+      }
+
+      var serviosText = document.getElementById("serviosText");
+      if(serviosText) {
+        serviosText.addEventListener("click", function (e) {
+          window.location.href = "./LandingPageSalo1.html"
+        });
+      }
+    </script>
+  </body>
+</html>
