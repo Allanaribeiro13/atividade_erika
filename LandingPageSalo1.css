@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.home-b2,
+.rectangle-div7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle-div7 {
+  background-color: rgba(226, 149, 187, 0.3);
+  width: 1349px;
+  height: 650px;
+}
+.home-b2 {
+  display: inline-block;
+  cursor: pointer;
+}
+.sobre-ns2 {
+  left: 91px;
+  cursor: pointer;
+}
+.contato-b2,
+.servios-b2,
+.sobre-ns2 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.servios-b2 {
+  left: 205px;
+  color: #000;
+}
+.contato-b2 {
+  left: 314px;
+  cursor: pointer;
+}
+.menu-div {
+  position: absolute;
+  top: 34px;
+  left: 546px;
+  width: 376px;
+  height: 21px;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.68);
+}
+.rectangle-div8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #ca4281;
+  width: 114px;
+  height: 40px;
+}
+.agendar-b2 {
+  position: absolute;
+  top: 8px;
+  left: 25px;
+  display: inline-block;
+}
+.call-to-action3 {
+  position: absolute;
+  top: 25px;
+  left: 942px;
+  width: 114px;
+  height: 40px;
+  font-size: 16px;
+  color: #fff;
+}
+.image-3-icon2,
+.image-4-icon2 {
+  position: absolute;
+  top: 5px;
+  left: 186px;
+  width: 82px;
+  height: 80px;
+  object-fit: cover;
+}
+.image-4-icon2 {
+  top: 33px;
+  left: 271px;
+  width: 140px;
+  height: 28px;
+}
+.social-media-icon2 {
+  position: absolute;
+  top: 29px;
+  left: 1076px;
+  width: 60px;
+  height: 30px;
+}
+.colorao-b,
+.corte-b,
+.hidratao-b,
+.nossos-servios-b,
+.penteados-b {
+  position: absolute;
+  letter-spacing: -0.03em;
+  line-height: 93%;
+  display: inline-block;
+}
+.nossos-servios-b {
+  top: 123px;
+  left: 458px;
+  font-size: 64px;
+  font-family: Source Sans Pro;
+  color: #000;
+}
+.colorao-b,
+.corte-b,
+.hidratao-b,
+.penteados-b {
+  top: 256px;
+  left: 357px;
+}
+.colorao-b,
+.hidratao-b,
+.penteados-b {
+  left: 867px;
+}
+.colorao-b,
+.penteados-b {
+  top: 495px;
+  left: 357px;
+}
+.penteados-b {
+  left: 866px;
+}
+.rectangle-div9 {
+  position: absolute;
+  top: 56px;
+  left: 747px;
+  background-color: #ca4281;
+  width: 73px;
+  height: 3px;
+}
+.ellipse-icon,
+.ellipse-icon1,
+.ellipse-icon2,
+.ellipse-icon3 {
+  position: absolute;
+  top: 195px;
+  left: 186px;
+  width: 157px;
+  height: 155px;
+  object-fit: cover;
+}
+.ellipse-icon1,
+.ellipse-icon2,
+.ellipse-icon3 {
+  top: 197px;
+  left: 684px;
+}
+.ellipse-icon2,
+.ellipse-icon3 {
+  top: 435px;
+  left: 186px;
+}
+.ellipse-icon3 {
+  top: 436px;
+  left: 684px;
+}
+.landing-page-salo2 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 650px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: #b00f54;
+  font-family: PT Serif;
+}

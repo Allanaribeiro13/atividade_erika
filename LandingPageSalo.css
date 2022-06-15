@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(226, 149, 187, 0.3);
+  width: 1349px;
+  height: 650px;
+}
+.home-b1 {
+  left: 546px;
+  cursor: pointer;
+}
+.contato-b1,
+.home-b1,
+.servios-b1,
+.sobre-ns1 {
+  position: absolute;
+  top: 34px;
+  display: inline-block;
+}
+.sobre-ns1 {
+  left: 637px;
+  color: #000;
+}
+.contato-b1,
+.servios-b1 {
+  left: 751px;
+  cursor: pointer;
+}
+.contato-b1 {
+  left: 860px;
+}
+.rectangle-div5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #ca4281;
+  width: 114px;
+  height: 40px;
+}
+.agendar-b1 {
+  position: absolute;
+  top: 8px;
+  left: 25px;
+  display: inline-block;
+}
+.call-to-action2 {
+  position: absolute;
+  top: 25px;
+  left: 942px;
+  width: 114px;
+  height: 40px;
+  color: #fff;
+}
+.image-3-icon1,
+.image-4-icon1 {
+  position: absolute;
+  top: 5px;
+  left: 186px;
+  width: 82px;
+  height: 80px;
+  object-fit: cover;
+}
+.image-4-icon1 {
+  top: 33px;
+  left: 271px;
+  width: 140px;
+  height: 28px;
+}
+.social-media-icon1 {
+  position: absolute;
+  top: 29px;
+  left: 1076px;
+  width: 60px;
+  height: 30px;
+}
+.beuty-salon-span {
+  color: #b00f54;
+}
+.lorem-ipsum-dolor-sit-amet-co,
+.ns-somos-a-beuty-salon {
+  position: absolute;
+  top: 169px;
+  left: 162px;
+  font-size: 48px;
+  letter-spacing: -0.03em;
+  line-height: 93%;
+  display: inline-block;
+  font-family: Source Sans Pro;
+  color: #000;
+}
+.lorem-ipsum-dolor-sit-amet-co {
+  top: 227px;
+  font-size: 18px;
+  line-height: 127.5%;
+  font-family: Asap;
+  width: 465px;
+}
+.rectangle-div6 {
+  position: absolute;
+  top: 56px;
+  left: 634px;
+  background-color: #ca4281;
+  width: 84px;
+  height: 3px;
+}
+.image-6-icon {
+  position: absolute;
+  top: 43px;
+  left: 626px;
+  width: 620px;
+  height: 620px;
+  object-fit: cover;
+}
+.landing-page-salo1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 650px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: rgba(0, 0, 0, 0.68);
+  font-family: PT Serif;
+}

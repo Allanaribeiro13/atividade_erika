@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.biwhatsapp-icon,
+.epplace-icon {
+  position: absolute;
+  top: 349px;
+  left: 174px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.biwhatsapp-icon {
+  top: 265px;
+}
+.home-b3,
+.rectangle-div10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle-div10 {
+  background-color: rgba(226, 149, 187, 0.3);
+  width: 1349px;
+  height: 650px;
+}
+.home-b3 {
+  display: inline-block;
+  cursor: pointer;
+}
+.sobre-ns3 {
+  left: 91px;
+  cursor: pointer;
+}
+.contato-b3,
+.servios-b3,
+.sobre-ns3 {
+  position: absolute;
+  top: 0;
+  display: inline-block;
+}
+.servios-b3 {
+  left: 205px;
+  cursor: pointer;
+}
+.contato-b3 {
+  left: 314px;
+  color: #000;
+}
+.menu-div1 {
+  position: absolute;
+  top: 34px;
+  left: 546px;
+  width: 376px;
+  height: 21px;
+  color: rgba(0, 0, 0, 0.68);
+}
+.rectangle-div11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #ca4281;
+  width: 114px;
+  height: 40px;
+}
+.agendar-b3 {
+  position: absolute;
+  top: 8px;
+  left: 25px;
+  display: inline-block;
+}
+.call-to-action4 {
+  position: absolute;
+  top: 25px;
+  left: 942px;
+  width: 114px;
+  height: 40px;
+  color: #fff;
+}
+.image-3-icon3,
+.image-4-icon3 {
+  position: absolute;
+  top: 5px;
+  left: 186px;
+  width: 82px;
+  height: 80px;
+  object-fit: cover;
+}
+.image-4-icon3 {
+  top: 33px;
+  left: 271px;
+  width: 140px;
+  height: 28px;
+}
+.social-media-icon3 {
+  position: absolute;
+  top: 29px;
+  left: 1076px;
+  width: 60px;
+  height: 30px;
+}
+.a-gente-span {
+  color: #b00f54;
+}
+.fale-com-a-gente {
+  position: absolute;
+  top: 145px;
+  left: 168px;
+  font-size: 64px;
+  letter-spacing: -0.03em;
+  line-height: 93%;
+  display: inline-block;
+  font-family: Source Sans Pro;
+}
+.rectangle-div12 {
+  position: absolute;
+  top: 56px;
+  left: 854px;
+  background-color: #ca4281;
+  width: 73px;
+  height: 3px;
+}
+.div,
+.r-da-consolao-3679-jardi {
+  position: absolute;
+  top: 275px;
+  left: 236px;
+  font-size: 24px;
+  letter-spacing: -0.03em;
+  line-height: 127.5%;
+  font-family: Asap;
+  display: inline-block;
+}
+.r-da-consolao-3679-jardi {
+  top: 349px;
+  width: 338px;
+}
+.image-7-icon {
+  position: absolute;
+  top: 85px;
+  left: 611px;
+  width: 590px;
+  height: 567px;
+  object-fit: cover;
+}
+.landing-page-salo3 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 650px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: PT Serif;
+}

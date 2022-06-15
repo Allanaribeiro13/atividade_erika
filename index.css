@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(226, 149, 187, 0.3);
+  width: 1349px;
+  height: 650px;
+}
+.home-b {
+  position: absolute;
+  top: 34px;
+  left: 546px;
+  display: inline-block;
+}
+.sobre-ns {
+  left: 637px;
+  cursor: pointer;
+}
+.contato-b,
+.servios-b,
+.sobre-ns {
+  position: absolute;
+  top: 34px;
+  display: inline-block;
+  color: rgba(0, 0, 0, 0.68);
+}
+.servios-b {
+  left: 751px;
+  cursor: pointer;
+}
+.contato-b {
+  left: 860px;
+}
+.rectangle-div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #ca4281;
+  width: 114px;
+  height: 40px;
+}
+.agendar-b {
+  position: absolute;
+  top: 8px;
+  left: 25px;
+  display: inline-block;
+}
+.call-to-action {
+  position: absolute;
+  top: 25px;
+  left: 942px;
+  width: 114px;
+  height: 40px;
+  color: #fff;
+}
+.image-3-icon,
+.image-4-icon {
+  position: absolute;
+  top: 5px;
+  left: 186px;
+  width: 82px;
+  height: 80px;
+  object-fit: cover;
+}
+.image-4-icon {
+  top: 33px;
+  left: 271px;
+  width: 140px;
+  height: 28px;
+}
+.rectangle-div2,
+.social-media-icon {
+  position: absolute;
+  top: 29px;
+  left: 1076px;
+  width: 60px;
+  height: 30px;
+}
+.rectangle-div2 {
+  top: 0;
+  left: 0;
+  border-radius: 100px;
+  background-color: #ca4281;
+  width: 205px;
+  height: 40px;
+}
+.agendar-servio-b {
+  position: absolute;
+  top: 6px;
+  left: 25px;
+  display: inline-block;
+}
+.call-to-action1 {
+  position: absolute;
+  top: 476px;
+  left: 257px;
+  width: 205px;
+  height: 40px;
+  font-size: 20px;
+  color: #fff;
+}
+.mais-incrvel-span {
+  color: #b00f54;
+}
+.est-esperando-o-que-para-se-s,
+.o-melhor-lugar-para-voc-ficar {
+  position: absolute;
+  left: 162px;
+  letter-spacing: -0.03em;
+  display: inline-block;
+}
+.o-melhor-lugar-para-voc-ficar {
+  top: 135px;
+  font-size: 60px;
+  line-height: 93%;
+  font-family: Source Sans Pro;
+  width: 466px;
+  height: 170px;
+}
+.est-esperando-o-que-para-se-s {
+  top: 377px;
+  font-size: 18px;
+  line-height: 127.5%;
+  font-family: Asap;
+  width: 465px;
+}
+.rectangle-div3 {
+  position: absolute;
+  top: 56px;
+  left: 541px;
+  background-color: #ca4281;
+  width: 56px;
+  height: 3px;
+}
+.image-8-icon {
+  position: absolute;
+  top: 85px;
+  left: 597px;
+  width: 726px;
+  height: 544px;
+  object-fit: cover;
+}
+.landing-page-salo {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 650px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 16px;
+  color: #000;
+  font-family: PT Serif;
+}
